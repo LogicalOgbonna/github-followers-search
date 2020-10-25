@@ -1,7 +1,7 @@
 {
   "name": "github-user-search",
-  "version": "1.0.6",
-  "main": "/",
+  "version": "1.0.7",
+  "main": "build/index.js",
   "author": "LogicalOgbonna <arinzeogbo@gmail.com>",
   "homepage": "https://logicalogbonna.github.io/github-followers-search/",
   "license": "MIT",
